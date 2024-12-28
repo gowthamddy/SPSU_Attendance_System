@@ -27,8 +27,14 @@ This project is an advanced attendance management system that leverages facial r
 - Face Recognition Libraries  
 - Required dependencies (list specific libraries)  
 
+##RUNNING Project
+
+python main.py
+
 ## Installation  
 ```bash  
-git clone https://repository-url  
+git clone https://github.com/gowthamddy/SPSU_Attendance_System 
 cd spsu-attendance-system  
 pip install -r requirements.txt
+
+
